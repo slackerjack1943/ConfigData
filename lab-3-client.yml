@@ -1,2 +1,7 @@
 ---
 lucky-word: Shamrock
+
+---
+spring: 
+    profiles: northamerica
+lucky-word: Shenanigans   
